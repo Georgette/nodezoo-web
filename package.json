@@ -74,6 +74,7 @@
     "chai": "3.5.0",
     "copyfiles": "0.2.1",
     "css-loader": "0.23.x",
+    "react-addons-test-utils": "15.0.x",
     "eslint": "2.11.1",
     "eslint-plugin-react": "5.1.1",
     "file-loader": "0.8.x",
